@@ -1,4 +1,4 @@
-# Chrome Dashboard Extension
+# SolGuerrilla extension
 Shiny new chrome browser new tab screen. Chrome extension for new tab page replacement. Add your favorite bookmarks and todo list to Chrome Dashboard. Customize your browser's background image. This free extension will make you more productive then ever.
 
 Features

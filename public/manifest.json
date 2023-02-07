@@ -1,0 +1,18 @@
+{
+	"name": "Sol Guerrilla",
+	"description": "Help transition the world to a greener cleaner future with your internet search.  Create an account to support solar power projects, get updates on the most recent environment trends and submit solar power projects for funding.",
+	"version": "1.0",
+	"manifest_version": 3,
+	"chrome_url_overrides": {
+		"newtab": "index.html"
+	},
+	"background": {
+		"service_worker": "background.js"
+	},
+	"action": {
+		"default_icon": "icon-16.png"
+	},
+	"icons": {
+		"64": "icon-16.png"
+	}
+}
